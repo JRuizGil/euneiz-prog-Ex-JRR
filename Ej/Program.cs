@@ -30,11 +30,11 @@ for (int i = 0; i < listNumbers.Count; i++)
 }
 
 //then create and order the list(listOrderedNumbers)
-List<int> listOrderedNumbers = new List<int>();
+
 listNumbers.Sort();
 //show in console the ordered list
 
-Console.WriteLine("Lista ordenada:");
+Console.WriteLine("\t Lista ordenada:");
     foreach (int Numbers in listNumbers)
     {
         Console.WriteLine(Numbers);
