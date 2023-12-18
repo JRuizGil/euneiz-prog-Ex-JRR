@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JoseRamonRuizGil\\Documents\\OneDrive - EUNEIZ\\1CUATRI\\WorkSpace\\Exam-Actividad-orden\\Exam-Actividad-orden.csproj",
+      "projectUniqueName": "C:\\Users\\JoseRamonRuizGil\\Documents\\OneDrive - EUNEIZ\\1CUATRI\\WorkSpace\\euneiz-prog-Ex-JRR-Gitext\\Exam-Actividad-orden\\Exam-Actividad-orden.csproj",
       "projectName": "Exam-Actividad-orden",
-      "projectPath": "C:\\Users\\JoseRamonRuizGil\\Documents\\OneDrive - EUNEIZ\\1CUATRI\\WorkSpace\\Exam-Actividad-orden\\Exam-Actividad-orden.csproj",
+      "projectPath": "C:\\Users\\JoseRamonRuizGil\\Documents\\OneDrive - EUNEIZ\\1CUATRI\\WorkSpace\\euneiz-prog-Ex-JRR-Gitext\\Exam-Actividad-orden\\Exam-Actividad-orden.csproj",
       "packagesPath": "C:\\Users\\JoseRamonRuizGil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JoseRamonRuizGil\\Documents\\OneDrive - EUNEIZ\\1CUATRI\\WorkSpace\\Exam-Actividad-orden\\obj\\",
+      "outputPath": "C:\\Users\\JoseRamonRuizGil\\Documents\\OneDrive - EUNEIZ\\1CUATRI\\WorkSpace\\euneiz-prog-Ex-JRR-Gitext\\Exam-Actividad-orden\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JoseRamonRuizGil\\AppData\\Roaming\\NuGet\\NuGet.Config",
