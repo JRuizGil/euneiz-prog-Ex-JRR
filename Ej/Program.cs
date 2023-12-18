@@ -29,13 +29,12 @@ for (int i = 0; i < listNumbers.Count; i++)
     Console.WriteLine("\t " + listNumbers[i]);
 }
 
-//then create and order the list(listOrderedNumbers)
-
 listNumbers.Sort();
+
 //show in console the ordered list
 
 Console.WriteLine("\t Lista ordenada:");
     foreach (int Numbers in listNumbers)
     {
-        Console.WriteLine(Numbers);
+        Console.WriteLine("\t " + Numbers);
     }
