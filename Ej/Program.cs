@@ -23,14 +23,19 @@ do
 
 } while (Console.ReadLine().ToLower() == "si") ;//do while wants to write more numbers.
 Console.WriteLine("\t Numbers");
+// show in console the list of written numbers(listNumbers)
 for (int i = 0; i < listNumbers.Count; i++)
 {
     Console.WriteLine("\t " + listNumbers[i]);
 }
 
-// Create ordered Numbers (orderedProductNames) list
-List<string> orderedNumbers = new List<string>();
-
-// show in console the list of written numbers(listNumbers)
-//then order the list(listOrderedNumbers)
+//then create and order the list(listOrderedNumbers)
+List<int> listOrderedNumbers = new List<int>();
+listNumbers.Sort();
 //show in console the ordered list
+
+Console.WriteLine("Lista ordenada:");
+    foreach (int Numbers in listNumbers)
+    {
+        Console.WriteLine(Numbers);
+    }
